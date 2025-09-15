@@ -1,16 +1,12 @@
 # Ultrasonic Radar System 
 
-<br>
-
-> [!NOTE]
-> I'm currently working on making this project public. As it is a University course project, I have to filter some content to maintain Academic Integrity. 
-
-<br>
-
 ![head](https://github.com/thejoonho/ultrasonic-radar-system/blob/main/images/ultrasonic-radar-system.jpeg)
+
+📡 Designed and implemented a 360° radar system with FPGA, ultrasonic sensor, stepper motor, and an Elegoo MCU, achieving real-time distance measurement for nearby objects. 
 
 ## 🗄️ Project Files
 
+- 📑 **PDF**: [Project Documentation](https://drive.google.com/file/d/1DWw23O7MDNBlrO9-zfn6hoByCWQz74d-/view?usp=sharing)
 - 🎬 **YouTube**: [Project Demo Video](https://www.youtube.com/watch?v=Czcan5i8jUk)
 
 
