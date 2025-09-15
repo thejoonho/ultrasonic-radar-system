@@ -7,6 +7,8 @@
 
 <br>
 
+![head](https://github.com/thejoonho/ultrasonic-radar-system/blob/main/images/ultrasonic-radar-system.jpeg)
+
 ## 🗄️ Project Files
 
 - 🎬 **YouTube**: [Project Demo Video](https://www.youtube.com/watch?v=Czcan5i8jUk)
